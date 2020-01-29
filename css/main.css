@@ -1,0 +1,14 @@
+.heading {
+    color: red;
+    font-size:100px;
+}
+
+.button {
+    color: white;
+    background-color: tomato;
+    height:50px;
+    width:250px;
+    display:block;
+    text-decoration: none;
+    margin-bottom:20px;
+}
